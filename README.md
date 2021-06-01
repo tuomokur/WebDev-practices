@@ -1,1 +1,1 @@
-# Pieniä webbidevaus-harjoituksia
+# Pieniä webbidesign-harjoituksia
