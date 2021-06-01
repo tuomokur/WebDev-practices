@@ -1,1 +1,1 @@
-# WebDev-harjoitukset
+# Pieniä webbidevaus-harjoituksia
