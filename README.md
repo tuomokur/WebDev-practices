@@ -1,1 +1,1 @@
-# Pieniä webbidesign-harjoituksia
+## Small web design practices 
